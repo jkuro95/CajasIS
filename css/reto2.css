@@ -55,7 +55,7 @@
 .gorra{
     width: 30px;
     height: 30px;
-    background-color: gold;/* rgb(196, 1, 1)*/
+    background-color: rgb(196, 1, 1);
     position: relative;
     display: inline-block;
 }
